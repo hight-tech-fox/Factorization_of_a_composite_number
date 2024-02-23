@@ -11,17 +11,25 @@ We read the number n, check it for primality, if the number is prime, output the
   Returns: Generated number
   <h3>def gcd(a, b):</h3>
   Accepts for entry: Integers a and b
+  
   What is he doing? Finds GCD(a, b)
+  
   Returns: GCD(a, b)
   <h3>def f(x):</h3>
-   Accepts for entry: x
-   What is he doing? Counts x**2 + 1
-   Returns: Returns the found value f(x)
+  Accepts for entry: x
+  
+  What is he doing? Counts x**2 + 1
+  
+  Returns: Returns the found value f(x)
    <h3>def check_miller_rabin(n, k=40):</h3>
-   Accepts for entry: Integer n
-   What is he doing? Tests the primality of n using the Rabin-Miller test
-   Returns: True – if the number is prime, False – if the number is composite
+  Accepts for entry: Integer n
+  
+  What is he doing? Tests the primality of n using the Rabin-Miller test
+  
+  Returns: True – if the number is prime, False – if the number is composite
    <h3>def factorization(n):</h3>
    Accepts for entry: Integer n
+   
    What is he doing? Performs complete factorization of the number n
+   
    Returns: An array consisting of prime factors of n
