@@ -1,4 +1,4 @@
-# Factorization_of_a_composite_number
+# Factorization of a composite number
 The program checks a number for primality using the Rabin-Miller test. If the number is composite, a complete factorization of the number is performed using the rho-Pollarad method, and the operating time is also measured.
 
   <h2>Description of the algorithm</h2>
