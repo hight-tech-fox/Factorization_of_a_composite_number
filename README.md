@@ -10,9 +10,11 @@ We read the number n, check it for primality, if the number is prime, output the
   What is he doing? Generates a random number in the range [1; n-1)
   Returns: Generated number
   <h3>def gcd(a, b):</h3>
-    Accepts for entry: Integers a and b
-    What is he doing? Finds GCD(a, b)
-    Returns: GCD(a, b)
+  Accepts for entry: Integers a and b
+    
+  What is he doing? Finds GCD(a, b)
+    
+  Returns: GCD(a, b)
   <h3>def f(x):</h3>
    Accepts for entry: x
    What is he doing? Counts x**2 + 1
