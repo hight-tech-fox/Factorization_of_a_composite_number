@@ -11,9 +11,7 @@ We read the number n, check it for primality, if the number is prime, output the
   Returns: Generated number
   <h3>def gcd(a, b):</h3>
   Accepts for entry: Integers a and b
-    
   What is he doing? Finds GCD(a, b)
-    
   Returns: GCD(a, b)
   <h3>def f(x):</h3>
    Accepts for entry: x
